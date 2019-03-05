@@ -6,7 +6,7 @@
 	<groupId>com.ander.solana.spring</groupId>
 	<artifactId>springPADRE</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>pom</packaging>
 
 	<name>springPADRE</name>
 	<description>Plantilla padre Spring</description>
